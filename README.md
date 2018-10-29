@@ -1,8 +1,26 @@
 # Code for Good (2018 Jersey City, NJ) project!
 
-    Our objective in this project was to work with the non profit organization "Rare" to create a solution for environmental change by influencing human behavior.
+    With *Rare*, we hope **GOOD DEEDS** won't be rare.
 
-![rare logo](https://initiative20x20.org/sites/default/files/2018-05/1_25.png)
+Presentation link: https://docs.google.com/presentation/d/1EB5Kefolrockj_-5iwgqX7bIxgL6oovEZ0P3VsdL37c/edit?usp=sharing
+
+Our objective in this project was to work with the non profit organization "Rare" to create a solution for environmental change by influencing human behavior. We mapped out good deeds around your area in the hope that you would do some good deeds too.
+
+## Contributors
+* [Miguel Acero](https://github.com/AceroM "Miguel Acero")
+    * Set up front end environment and installed most packages
+    * Created React Components and connected with backend
+* [Anthony Minerva](https://github.com/AMinerva400 "Anthony Minerva")
+    * Set up backend environment
+    * Created Schemas andhelped connect to front end
+* [Allen Liu](https://github.com/telarmago "Allen Liu")
+    * Set up backend environment
+    * Used MLabs to connect database
+* [Revathi Bhuvaneswari](https://github.com/reva3b "Revathi Bhuvaneswari")
+    * Created and edited power point.
+ 
+
+![](https://www.rare.org/profiles/rare/themes/rare/images/backgrounds/logo-rare.png)
 ![](https://i.imgur.com/t60R5Sg.jpg)
 ![](https://i.imgur.com/aGxqH6R.png)
 
@@ -29,4 +47,9 @@ MAPS_API=INSERT_GOOGLE_MAPS_API_HERE
 
 # List of improvements
 
+* Overall better styling for website
+
 * Icons for the locations depending on the category of the good deed.
+
+* Add explore tab to explore events around your area
+
