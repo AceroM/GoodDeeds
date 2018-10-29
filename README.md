@@ -1,6 +1,6 @@
 # Code for Good (2018 Jersey City, NJ) project!
 
-    With *Rare*, we hope **GOOD DEEDS** won't be rare.
+> With *Rare*, we hope **GOOD DEEDS** won't be rare.
 
 Presentation link: https://docs.google.com/presentation/d/1EB5Kefolrockj_-5iwgqX7bIxgL6oovEZ0P3VsdL37c/edit?usp=sharing
 
