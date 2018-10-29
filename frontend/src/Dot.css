@@ -1,0 +1,48 @@
+.panel {
+    width: 350px;
+    height: 400px;
+    background: white;
+    margin-top: 10px;
+}
+
+.panelContent {
+    padding: 10px;
+}
+
+.example-enter {
+    height: 0px;
+}
+
+.example-enter.example-enter-active {
+    height: 100px;
+    -webkit-transition: height .3s ease;
+}
+
+.example-leave.example-leave-active {
+    height: 0px;
+    -webkit-transition: height .3s ease;
+}
+
+#title {
+    font-size: 5px;
+}
+#category {
+    font-size: 12px;
+}
+
+#dot {
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+#name {
+    color: black;
+    background-color: #0000;
+}
+
+#img {
+    height: 50%;
+    width: 50%;
+    max-width: 400px;
+    max-height: 500px;
+}

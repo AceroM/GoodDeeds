@@ -1,0 +1,17 @@
+{
+    "data": [
+        {
+            "user": "",
+            "time": "",
+            "img": "",
+            "title": "",
+            "body": "",
+            "upvotes": "",
+            "center": {
+                "lat": 59.95,
+                "lng": 30.33
+            },
+            "zoom": 11
+        }
+    ]
+}

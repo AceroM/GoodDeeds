@@ -1,0 +1,52 @@
+{
+    "data": [
+        {
+            "name": "Miguel Acero",
+            "time": "9:20pm",
+            "img": "https://cdn.images.express.co.uk/img/dynamic/130/590x/Recycle-851038.jpg",
+            "title": "Recycling some plastic bottles!",
+            "quantity": "50 kg",
+            "category": "Recycling",
+            "body": "Having fun recycling!",
+            "upvotes": 50,
+            "lat": 59.95,
+            "lng": 30.33
+        },
+        {
+            "name": "Justin Pacquing",
+            "time": "4:20am",
+            "img": "https://cdn-image.foodandwine.com/sites/default/files/styles/4_3_horizontal_-_1200x900/public/fwx-veganuary-vegetables_1.jpg?itok=fYmEivRI",
+            "title": "MOMMA SAID EAT YO GREENS",
+            "quantity": "2 kg",
+            "category": "Plant Rich Diet",
+            "body": "tryna be healthy ya feel",
+            "upvotes": 999,
+            "lat": 59.97,
+            "lng": 30.35
+        },
+        {
+            "name": "Kathy Tran",
+            "time": "5:20pm",
+            "img": "https://comps.canstockphoto.com/elderly-asian-woman-biking-stock-photos_csp46399537.jpg",
+            "title": "Biking instead of taking public transporation",
+            "quantity": "10 miles",
+            "category": "Public Transportation",
+            "body": "This is pretty fun too!",
+            "upvotes": 400,
+            "lat": 59.95,
+            "lng": 30.28
+        },
+        {
+            "name": "Allen",
+            "time": "7:50pm",
+            "img": "https://r.hswstatic.com/w_907/gif/composting-sysk.jpg",
+            "title": "Composting!",
+            "quantity": "1 gram",
+            "category": "Composting!",
+            "body": "Composting",
+            "upvotes": 50,
+            "lat": 59.90,
+            "lng": 30.33
+        }
+    ]
+}
